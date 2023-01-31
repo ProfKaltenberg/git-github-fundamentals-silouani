@@ -7,4 +7,4 @@
 ## I am still confused with 
 1. More details of **Github**
 
-!(https://pin.it/39xSwO1)
+![](https://pin.it/39xSwO1)
